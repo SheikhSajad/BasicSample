@@ -26,6 +26,7 @@ import java.util.regex.Pattern;
  */
 public class EmailValidator implements TextWatcher {
 
+    // testing GITHUB
     /**
      * Email validation pattern.
      */
